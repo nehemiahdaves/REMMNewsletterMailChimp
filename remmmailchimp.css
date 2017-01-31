@@ -1,0 +1,28 @@
+#mailchimp {
+	background: ;
+	color: ;
+	padding: 20px 15px;
+}
+	#mailchimp input {
+		 border: medium none;
+    color: gray;
+    font-family: Calibri;
+    font-size: 16px;
+    margin-bottom: 10px;
+    padding: 8px 10px;
+    width: 30%;
+		
+	}
+		#mailchimp input.email { background: #fff }
+		#mailchimp input.name { background: #fff}
+		#mailchimp input[type="submit"] {
+			background: #981B1F;
+			color: #fff;
+			cursor: pointer;
+			font-size: 18px;
+            font-style: Bold;
+			width: 15%;
+			padding: 8px 0;
+
+		}
+			#mailchimp input[type="submit"]:hover { color: #FFFFFFs }
