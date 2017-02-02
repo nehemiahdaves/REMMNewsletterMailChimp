@@ -11,15 +11,7 @@
         
 		
 	}
-		#mailchimp input.email { background: #fff }
-		#mailchimp input.name { background: #fff}
-		#mailchimp input[type="submit"] {
-			background: #981B1F;
-			color: #fff;
-			cursor: pointer;
-			font-size: 18px;
-            		font-weight: bold;
-			width: 15%;
+		
 
 		}
 #mailchimp input[type="submit"]:hover { color: #FFFFFFs }
